@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "HelloWorld",
-    "slug": "expo-template-blank-typescript",
+    "slug": "expo-template-tandem-challenge",
     "version": "1.0.0",
+    "entryPoint": "./src/App.tsx",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
