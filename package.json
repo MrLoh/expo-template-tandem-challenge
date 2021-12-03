@@ -1,7 +1,7 @@
 {
   "name": "expo-template-tandem-challenge",
   "description": "Expo React Native template for the Tandem code challenge",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
